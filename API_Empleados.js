@@ -2,7 +2,7 @@
 Desarrolle un programa en Node.js donde la primer versión del API regresa el id y nombre del empleado.
 La segunda versión del API, regresará id, nombre y apellido.
 Cada versión del API Empleados tendrá su propia ruta en el URL.
-Utilice el siguiente ejemplo como apoyo.
+Utilice el siguiente ejemplo como apoyo
 **/
 
 var express = require("express");
